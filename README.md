@@ -1,2 +1,2 @@
 # algorithm
-toy algorithm problem
+토이 알고리즘 문제풀이를 합니다. 해설을 주석으로 답니다. 
